@@ -9,6 +9,8 @@
 - [Node.js backend tracker API](https://github.com/sosaedison/backend-tracker)
 - [React frontend using backend tracker](https://github.com/sosaedison/front-end-tracker)
 
-# Archive Projects:
+# Past Projects:
 
-- 
+- [Time Tracking App](https://github.com/sosaedison/AppTracker)
+- [Senior Capstone React App](https://github.com/auto-garcon/webui)
+- [Intro Web Dev class weather app](https://github.com/sosaedison/RebeccaSosawebapp)
