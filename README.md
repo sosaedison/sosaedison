@@ -6,6 +6,8 @@
 
 # Current Projects:
 
+- [Auto Concert Ticket Buying Bot](https://github.com/sosaedison/ticketbuyingbot)
+: This repo holds the code to my ticket buying bot. Check out the roadmap on the repo's README!
 - [Node.js backend tracker API](https://github.com/sosaedison/backend-tracker) 
 : This project is the node.js/express version of an application I built during my internship at [Voxel VR](https://www.voxelvrp.com/).
 - [React frontend using backend tracker](https://github.com/sosaedison/front-end-tracker)
