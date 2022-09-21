@@ -1,4 +1,5 @@
-# Hi, I'm Sosa Edison. I'm a software engineer based in Minneapolis, Minnesota. I like to test new technologies on this github and keep up with the basics of software development: TDD, CI/CD, building apps that scale well and thoughtful design decisions.
+# Welcome 
+I'm Sosa Edison, a software engineer based in Minneapolis, Minnesota. I like to test new technologies on this github and keep up with the basics of software development: TDD, CI/CD, building apps that scale well and thoughtful design decisions.
 
 ### email: me@sosaedison.io
 ### [linkedIn](https://www.linkedin.com/in/sosa-edison/)
