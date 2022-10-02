@@ -8,4 +8,8 @@ I'm Sosa Edison, a software engineer based in Minneapolis, Minnesota. I like to 
 # Current Projects:
 - ## [0] [real-time chat applicaiton](https://github.com/sosaedison/fastapi-chat-app): 
   - The aim of this project is to go beyond the basic chat app that I've built before and to leverage technologies that companies use throughout the industry to solve common issues.
+  ### Built with:
+  - FASTAPI
+  - REACT
+  - DOCKER
     
